@@ -1,3 +1,5 @@
-## Hello git !
+## Heyoo Eveyine , welcome to my git guide!
 
-I'm adding this from 'Try2 ' branch 
+- `John` here changing the readme.
+
+- I'm adding this from 'Try2 ' branch 
